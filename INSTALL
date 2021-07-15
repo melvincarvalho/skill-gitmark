@@ -1,0 +1,14 @@
+# PREREQUISITES
+sudo apt install git nodejs npm
+sudo npm i -g gitmark
+# requires a transaction output to be used as genesis
+
+# INSTALL
+git mark --genesis <genesis>
+
+# CONFIG
+# set a private key in ~/.gitmark/repo/<host>/<user>/<repo>/gitmark.json
+# add "privkey": "secret exponent"
+
+# NOTES
+# requires a server cli to broadcast tx, or ssh to an open one
