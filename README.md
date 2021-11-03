@@ -22,7 +22,7 @@ Add gitmark to an autonomous agent
 
 ## Introduction
 
-git is a modular skill to be used in composing [autonomous agents](https://aam.wtf/).  It will initialize a git repo
+gitmark is a modular skill to be used in composing [autonomous agents](https://aam.wtf/).  It will initialize allow a repo to super commit using the [gitmark](https://git-mark.com/) system
 
 ## Installation
 
